@@ -1,1 +1,2 @@
-# simon-says-game
+# Simon Says Challenge. 
+Angela Yu Web Bootcamp
